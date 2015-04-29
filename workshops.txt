@@ -1,0 +1,11 @@
+Session 1
+    How to hack (intro to programming)
+    Using Github / working productively with a team
+    Android Apps
+    Web apps with NodeJS / Ruby on Rails / Django
+Session 2
+    Unity3D
+    Unreal Engine
+    Android Apps
+    iOS apps
+    Web apps with NodeJS / Ruby on Rails / Django

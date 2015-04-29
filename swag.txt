@@ -1,0 +1,13 @@
+T-Shirt
+    Front
+        HackBrea logo
+        “HackBrea”
+    Back
+        Sponsor logos?
+        names of attendees?
+        a logo for our hackathon hosting org?
+Water bottle
+    HackBrea logo
+Stickers
+    HackBrea logo
+    “HackBrea”
